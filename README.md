@@ -1,6 +1,6 @@
 # learning
 
-'''mermaid
+'''javascript
 flowchart LR
 
 A[Hard] -->|Text| B(Round)

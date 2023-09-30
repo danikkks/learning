@@ -1,9 +1,3 @@
-# learning
+# Learning
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
+In this repository I will be uploading all the code I write while learning new languages, frameworks, libraries, etc.

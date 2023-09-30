@@ -4,8 +4,8 @@
 
 1. Install [Docker](https://docs.docker.com/get-docker/)
 2. `./create-postgres.sh` to create a postgres container
-3. `./define-schema.sh` to create the schema
-4. `./define-data.sh` to insert some data
+3. `./define-schema.sql` to create the schema
+4. `./define-data.sql` to insert some data
 
 ## Run
 

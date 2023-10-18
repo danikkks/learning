@@ -10,4 +10,4 @@
 ## Run
 
 1. `./start-postgres.sh` to start the postgres container
-2. Execute `.sql` files with pgAdmin or any other tool
+2. Execute `.sql` files with `./execute-sql-file.sh` util. Example: `./execute-sql-file.sh ./select.sql`

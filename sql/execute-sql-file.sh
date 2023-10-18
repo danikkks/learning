@@ -1,2 +1,2 @@
 #!/bin/bash
-docker exec -it learning-sql-postgres psql --dbname=postgres --username=postgres -c '\x auto' -c "$(<$1)"
+docker exec -it learning-sql-postgres psql --dbname=postgres --username=postgres -c '\timing' -c '\x auto' -c "$(<$1)"

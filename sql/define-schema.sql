@@ -1,10 +1,10 @@
-create table College(
+create table College (
   cName text unique,
   state text,
   enrollment integer
 );
 
-create table Student(
+create table Student (
   sID integer unique,
   sName text,
   GPA real,
